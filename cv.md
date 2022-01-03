@@ -5,8 +5,6 @@ Russia, St. Petersburg
 
 email: annivanyk@gmail.com
 
-phone: +7 981 983 32 31
-
 ##About me:
 I graduated from university with red diploma. Then I was 
 working as a programmer for university's admission committee for
